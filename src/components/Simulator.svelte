@@ -137,4 +137,7 @@
     <div>
         <p>Valor ao final: {valueEnd}</p>
     </div>
+    <div>
+        <button>Finalizar investimento</button>
+    </div>
 </div>
