@@ -2,7 +2,7 @@
     import Simulator from '../components/Simulator.svelte';
 </script>
 <svelte:head>
-	<title>About</title>
+	<title>Simulador</title>
 </svelte:head>
 
 <h1>Simulador MM</h1>
